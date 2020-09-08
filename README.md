@@ -47,8 +47,7 @@
 Just clone the repo, install Node.js modules and run `npm start`:
 
 ```shell
-$ git clone -o react-static-boilerplate -b master --single-branch \
-      https://github.com/jun0205/react-static-boilerplate.git MyApp
+$ git clone xxx
 $ cd MyApp
 $ npm install           # Install project dependencies listed in package.json
 $ npm start             # Build and launch the app, same as "node tools/start.js"
